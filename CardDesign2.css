@@ -1,0 +1,35 @@
+.maincontainer{
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    width: 80%;
+    margin: auto;
+    height: 600px;
+}
+.container1{
+    border-width: 2px;
+    border-style: solid;
+padding: 20px;
+height: 330px;
+    width: 200px;
+    margin-top: 20px;
+}
+.container2{
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+    height: 380px;
+    width: 200px;
+}
+.container3{
+border-width: 2px;
+border-style:solid ;
+padding:20px ;
+height:330px ;
+width: 200px;
+margin-top: 20px;
+}
+.subcontainer{
+    display: flex;gap: 10px;
+    justify-content: center;
+}

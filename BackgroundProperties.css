@@ -1,0 +1,8 @@
+.img {
+    background-image: url(./images/baby.jpg); /* Set the background image */
+    height: 300px; /* Set the height of the div */
+    width: 50%; /* Set the width to take up 100% of the parent container */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-size: contain; /* Ensure the background image covers the div without distorting */
+    background-position: center; /* Center the background image */
+}
