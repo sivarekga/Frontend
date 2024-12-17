@@ -1,0 +1,17 @@
+.maincontainer{
+    font-family:  sans-serif;
+    font-weight: 300;
+    color: blue;
+   
+}
+@media(max-width:900px) {.maincontainer{
+    color: brown;
+}
+    
+}
+@media(max-width:500px) {.maincontainer{
+    font-family: Arial;
+    color: aqua;
+}
+    
+}

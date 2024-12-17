@@ -1,35 +1,121 @@
 .maincontainer{
-    text-align: center;
-    border-width: 2px;
-    border-style: solid;
     width: 80%;
-    margin: auto;
     height: 600px;
+    background-color: whitesmoke;
+    /* border: 2px solid black; */
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 500;
+    margin: 5px;
+    padding: 5px;
+    
+}
+.subpara{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #302f2f;
 }
 .container1{
-    border-width: 2px;
-    border-style: solid;
-padding: 20px;
-height: 330px;
-    width: 200px;
+padding-bottom: 20px;
+height: 280px;
+    width: 230px;
     margin-top: 20px;
+    border-radius: 10px;
+    border: 0px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
 }
 .container2{
-    border-width: 2px;
-    border-style: solid;
-    padding: 20px;
-    height: 380px;
-    width: 200px;
+    width: 250px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+    background-color:#60cae3;
+    border-radius: 10px;
+    border: 0px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    /* height: 320px; */
 }
-.container3{
-border-width: 2px;
-border-style:solid ;
-padding:20px ;
-height:330px ;
-width: 200px;
-margin-top: 20px;
-}
+
 .subcontainer{
     display: flex;gap: 10px;
     justify-content: center;
 }
+.mon{
+  font-weight: 600;
+    color: #676666;
+}
+.yer{
+    font-weight: 600;
+    color: white;
+    font-size: larger;
+}
+.num{
+    font-size: 37px;
+    font-weight: 600;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+.num1{
+    font-size: 40px;
+    font-weight: 600;
+    margin: 10px;
+    margin-bottom: 0px;
+    color: white;
+}
+.per{
+    margin: -3px;
+    font-size: 16px;
+    margin-bottom: 24px;
+    color:black
+}
+.per1{
+    margin: -3px;
+    font-size: 16px;
+    margin-bottom: 24px;
+    color: white;
+
+}
+.text{
+    margin: 10px;
+    font-size: 13px;
+    color: #676666;
+}
+
+.text1{
+    margin: 10px;
+    font-size: 15px;
+    color: white;
+}
+
+.line{
+    margin: 2px;
+}
+.sub{
+    margin: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #60cae3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+}
+.sub1{
+    margin: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: white;
+    color: #60cae3;
+    border: none;
+    border-radius: 4px;
+    font-size: larger;
+    font-weight: 600;
+}
+          
+          
+         

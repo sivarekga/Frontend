@@ -1,0 +1,59 @@
+.time{
+    /* font-family:; */
+    font-size: 32px;
+    font-weight: bold;
+}
+.zone{
+    /* font-family: sans-serif; */
+    font-size: 32px;
+    font-weight: bold;
+    color: #ff0000;
+}
+.cont1{
+    border: none;
+    height: 210px;
+    width: 396px;
+}
+.cont2,.cont3,.cont4{
+    border: none;
+    height: 210px;
+    width: 310px;
+}
+.incont{
+    /* font-family: sans-serif; */
+    font-size: 17px;
+    line-height: 30px;
+}
+.heading{
+    /* font-family: sans-serif; */
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 11px;
+}
+p{
+    /* font-family: sans-serif; */
+    color: #4f5966b8;
+}
+.color{
+    color: #ff0000;
+}
+.cont5{
+    padding-top: 50px;
+
+}
+.cont6{
+    padding-top: 85px;
+
+}
+ i{
+        padding: 6px
+ }
+ .maincontainer{
+    width: 80%;
+    margin: auto;
+ }
+
+ *{
+    font-family:"Roboto", sans-serif;
+ }
+
